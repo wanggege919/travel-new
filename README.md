@@ -4,7 +4,6 @@
 # [项目预览](https://wanggege919.github.io/travel-new/dist/index.html#/)
 
 
-
 # 技能树
 - 使用语言：vue + vue-cli + axios + vuex + vue-router + stylus + eslint + es6
 - 使用 vue-cli 进行原型开发并配置 config
@@ -31,5 +30,6 @@
 
 # 项目相关博客整理：
 [去哪了网项目总结（移动端）](https://www.jianshu.com/p/09e24d1516f5)
+
 
 
